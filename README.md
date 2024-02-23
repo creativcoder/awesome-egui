@@ -32,3 +32,4 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Themes
 
 - [Catppuccin theme](https://github.com/catppuccin/egui) - Soothing pastel theme for egui
+- [egui-aesthetix](https://github.com/thebashpotato/egui-aesthetix) - A uniform and programmatic approach to themeing egui applications.
