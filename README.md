@@ -28,6 +28,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 - [egui_dock](https://github.com/Adanos020/egui_dock) - Docking support for egui – an immediate-mode GUI library for Rust
 - [egui-tiles](https://github.com/rerun-io/egui_tiles) - A tiling layout engine for egui with drag-and-drop and resizing
 - [egui-hooks](https://github.com/ryo33/egui_hooks) - React Hooks like API for enhancing the ergonomics of [`egui::Memory`](https://docs.rs/egui/latest/egui/struct.Memory.html)
+- [walkers](https://github.com/podusowski/walkers) - Open street map widget for egui
 
 ## Themes
 
